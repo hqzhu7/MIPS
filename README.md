@@ -1,2 +1,2 @@
-These are hws from my assembly language class, just to prove I can understand and write assembly language.  
-All codes are written by myself.
+These are some tiny projects from my assembly language class 
+All of them are about manipulating registers and acceses data in memory
